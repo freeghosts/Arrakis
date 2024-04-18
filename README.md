@@ -17,3 +17,5 @@ java game
 ```
 
 <p><br></p> 
+
+![screenshot of Arrakis gameplay](arrakis640.png) 
